@@ -3,7 +3,7 @@
 const usuarioLogado = true;
 const contaPaga = false;
 
-// truthy ou falsy - outro dados que podem se comportar como booleano assumindo valores - verdadeiro e falso
+// truthy ou falsy - outros dados que podem se comportar como booleano assumindo valores - verdadeiro e falso
 
 // 0 -> falso 
 // 1 -> verdadeiro
